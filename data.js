@@ -1,0 +1,200 @@
+window.RESTAURANTS = [
+  {
+    "id": "84hmkq767eirb51e8e",
+    "name": "优味堡炸鸡汉堡冷饮",
+    "address": "长沙市望城区郭亮南路湖南信息职业技术学院西南侧约50米",
+    "category": "小吃快餐",
+    "distanceM": 247,
+    "lat": 28.345411,
+    "lng": 112.82241,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmkq767eirb51e8e"
+  },
+  {
+    "id": "84hml7767ehsbf4cd6",
+    "name": "堡先生",
+    "address": "长沙市望城区郭亮南路湖南信息职业技术学院西南侧约50米",
+    "category": "餐馆",
+    "distanceM": 250,
+    "lat": 28.345376,
+    "lng": 112.822427,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hml7767ehsbf4cd6"
+  },
+  {
+    "id": "84hmm1767egfbf9bde",
+    "name": "小蚂蚁盖码饭",
+    "address": "长沙市望城区郭亮南路湖南信息职业技术学院西南侧约60米",
+    "category": "饭粥快餐",
+    "distanceM": 253,
+    "lat": 28.345327,
+    "lng": 112.822457,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmm1767egfbf9bde"
+  },
+  {
+    "id": "84hmtk767e8yb3ea1a",
+    "name": "陈氏酱板鸭",
+    "address": "长沙市望城区郭亮南路23号",
+    "category": "餐馆",
+    "distanceM": 266,
+    "lat": 28.345058,
+    "lng": 112.822728,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmtk767e8yb3ea1a"
+  },
+  {
+    "id": "84ho96767e3gbf7484",
+    "name": "宋氏重庆鸡公煲(望城店)",
+    "address": "喻家坡街道信息职业学院(南院)聚缘路10号",
+    "category": "餐馆",
+    "distanceM": 274,
+    "lat": 28.34486,
+    "lng": 112.824586,
+    "updated": "2023-08-03",
+    "url": "https://changsha.city8.com/cater/84ho96767e3gbf7484"
+  },
+  {
+    "id": "84hoey767e38b6453a",
+    "name": "名师烧烤城",
+    "address": "湖南省长沙市望城区高塘岭街道聚缘路14号",
+    "category": "烧烤夜宵",
+    "distanceM": 281,
+    "lat": 28.344852,
+    "lng": 112.824794,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hoey767e38b6453a"
+  },
+  {
+    "id": "84hoav767dzub94175",
+    "name": "猪脚烧腊饭",
+    "address": "湖南省长沙市望城区聚缘路12号",
+    "category": "饭粥快餐",
+    "distanceM": 290,
+    "lat": 28.34473,
+    "lng": 112.824647,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hoav767dzub94175"
+  },
+  {
+    "id": "84hmjx767dyjbd30b0",
+    "name": "哈卤卤肉王(望城店)",
+    "address": "长沙市望城区聚缘路湖南信息职业技术学院西南侧约130米",
+    "category": "小吃快餐",
+    "distanceM": 319,
+    "lat": 28.344683,
+    "lng": 112.822381,
+    "updated": "2022-12-03",
+    "url": "https://changsha.city8.com/cater/84hmjx767dyjbd30b0"
+  },
+  {
+    "id": "84hmm1767dwrb85603",
+    "name": "早餐店",
+    "address": "湖南省长沙市望城区郭亮南路110号附近",
+    "category": "餐馆",
+    "distanceM": 322,
+    "lat": 28.344619,
+    "lng": 112.822457,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmm1767dwrb85603"
+  },
+  {
+    "id": "84hmii767dwcb3fea3",
+    "name": "强哥土菜馆",
+    "address": "长沙市望城区聚缘路湖南信息职业技术学院西南侧约130米",
+    "category": "餐馆",
+    "distanceM": 329,
+    "lat": 28.344604,
+    "lng": 112.82233,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmii767dwcb3fea3"
+  },
+  {
+    "id": "84hmne767dsib389eb",
+    "name": "牛排爱上饭(信息学院店)",
+    "address": "湖南省长沙市望城区郭亮南路114号",
+    "category": "饭粥快餐",
+    "distanceM": 335,
+    "lat": 28.344466,
+    "lng": 112.822506,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmne767dsib389eb"
+  },
+  {
+    "id": "84hmaj767dwxb5e808",
+    "name": "百悦府餐馆",
+    "address": "长沙市望城区聚缘路湖南信息职业技术学院西南侧约140米",
+    "category": "餐馆",
+    "distanceM": 340,
+    "lat": 28.344625,
+    "lng": 112.822043,
+    "updated": "2023-04-21",
+    "url": "https://changsha.city8.com/cater/84hmaj767dwxb5e808"
+  },
+  {
+    "id": "84hn2u767c3ybad9f4",
+    "name": "米汤饭",
+    "address": "湖南省长沙市望城区郭亮南路55号附近",
+    "category": "饭粥快餐",
+    "distanceM": 556,
+    "lat": 28.342286,
+    "lng": 112.823062,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hn2u767c3ybad9f4"
+  },
+  {
+    "id": "84hmy8767b1pb390fd",
+    "name": "好吃佬壹号(宣名店)",
+    "address": "湖南省长沙市望城区郭亮南路258号附近",
+    "category": "餐馆",
+    "distanceM": 710,
+    "lat": 28.340909,
+    "lng": 112.822896,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hmy8767b1pb390fd"
+  },
+  {
+    "id": "84hn90767ad6b21186",
+    "name": "乡韵餐馆",
+    "address": "长沙市望城区郭亮南路望一向阳中学西南侧约40米",
+    "category": "餐馆",
+    "distanceM": 804,
+    "lat": 28.340026,
+    "lng": 112.823284,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hn90767ad6b21186"
+  },
+  {
+    "id": "84hnaj767a22b8f0d5",
+    "name": "良哥粉面馆",
+    "address": "长沙市望城区郭亮南路望一向阳中学西南侧约60米",
+    "category": "粉面",
+    "distanceM": 848,
+    "lat": 28.339626,
+    "lng": 112.823339,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hnaj767a22b8f0d5"
+  },
+  {
+    "id": "84hn347679krb267f4",
+    "name": "侯哥烧烤炒菜火锅口味虾麻辣嗦螺",
+    "address": "湖南省长沙市望城区郭亮南路165号附近",
+    "category": "烧烤夜宵",
+    "distanceM": 919,
+    "lat": 28.339003,
+    "lng": 112.823072,
+    "updated": "2022-07-13",
+    "url": "https://changsha.city8.com/cater/84hn347679krb267f4"
+  },
+  {
+    "id": "84hg6z767ebobff3c9",
+    "name": "巧食匠(电子科技店)",
+    "address": "聚缘路湖南电子科技信息职业学院北校区",
+    "category": "餐馆",
+    "distanceM": 978,
+    "lat": 28.345156,
+    "lng": 112.814139,
+    "updated": "2023-07-05",
+    "url": "https://changsha.city8.com/cater/84hg6z767ebobff3c9"
+  }
+];
