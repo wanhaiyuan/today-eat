@@ -1,0 +1,598 @@
+{
+  "file": "微信图片_20261004000143_255_5.jpg",
+  "recordedAt": "2026-10-04",
+  "records": [
+    {
+      "index": 1,
+      "rawName": "辰之美早餐店",
+      "category": "早餐",
+      "distanceM": 100,
+      "distanceQualifier": "lt",
+      "restaurantId": "screenshot-20261004-01"
+    },
+    {
+      "index": 2,
+      "rawName": "塔斯汀中国汉堡(长沙市望…",
+      "category": "汉堡",
+      "distanceM": 232,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-02"
+    },
+    {
+      "index": 3,
+      "rawName": "功夫煲仔饭(聚缘路店)",
+      "category": "煲仔饭",
+      "distanceM": 423,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-03"
+    },
+    {
+      "index": 4,
+      "rawName": "市井边边旋转小火锅(望城…",
+      "category": "小火锅",
+      "distanceM": 570,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-04"
+    },
+    {
+      "index": 5,
+      "rawName": "彭耕记猪油炒小菜(才子…",
+      "category": "湘菜",
+      "distanceM": 562,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-05"
+    },
+    {
+      "index": 6,
+      "rawName": "霸碗盖码饭(长沙望城才子…",
+      "category": "盖码饭",
+      "distanceM": 580,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-06"
+    },
+    {
+      "index": 7,
+      "rawName": "S-pizza披萨速递(望城店)",
+      "category": "披萨",
+      "distanceM": 510,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-07"
+    },
+    {
+      "index": 8,
+      "rawName": "薛笑笑螺蛳粉(才子汇店)",
+      "category": "螺蛳粉",
+      "distanceM": 433,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-08"
+    },
+    {
+      "index": 9,
+      "rawName": "陈氏酱板鸭",
+      "category": "卤味",
+      "distanceM": 439,
+      "distanceQualifier": null,
+      "restaurantId": "chenshi"
+    },
+    {
+      "index": 10,
+      "rawName": "临榆炸鸡腿(信息职院店)",
+      "category": "炸鸡",
+      "distanceM": 228,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-10"
+    },
+    {
+      "index": 11,
+      "rawName": "塔斯汀中国汉堡(长沙市望…",
+      "category": "汉堡",
+      "distanceM": 960,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-11"
+    },
+    {
+      "index": 12,
+      "rawName": "油麻港辣子鸡手擀面(莲…",
+      "category": "面食",
+      "distanceM": 947,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-12"
+    },
+    {
+      "index": 13,
+      "rawName": "菌山集云南野生菌火锅(…",
+      "category": "火锅",
+      "distanceM": 489,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-13"
+    },
+    {
+      "index": 14,
+      "rawName": "喜皇",
+      "category": "汉堡",
+      "distanceM": 580,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-14"
+    },
+    {
+      "index": 15,
+      "rawName": "肯德基(长沙才子府店)",
+      "category": "快餐",
+      "distanceM": 622,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-15"
+    },
+    {
+      "index": 16,
+      "rawName": "绝味鸭脖(才子城店)",
+      "category": "卤味",
+      "distanceM": 371,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-16"
+    },
+    {
+      "index": 17,
+      "rawName": "沙县小吃(安子坡小区店)",
+      "category": "沙县小吃",
+      "distanceM": 322,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-17"
+    },
+    {
+      "index": 18,
+      "rawName": "笨小钵·酱板鸭炖牛蛙(…",
+      "category": "湘菜",
+      "distanceM": 566,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-18"
+    },
+    {
+      "index": 19,
+      "rawName": "尊宝比萨(才子城店)",
+      "category": "披萨",
+      "distanceM": 643,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-19"
+    },
+    {
+      "index": 20,
+      "rawName": "中国兰州拉面(高塘览胜店)",
+      "category": "拉面",
+      "distanceM": 269,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-20"
+    },
+    {
+      "index": 21,
+      "rawName": "百味粉店",
+      "category": "米粉",
+      "distanceM": 248,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-21"
+    },
+    {
+      "index": 22,
+      "rawName": "宁乡宁手工鸡蛋面(才子府店)",
+      "category": "面食",
+      "distanceM": 425,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-22"
+    },
+    {
+      "index": 23,
+      "rawName": "绿草地·湘菜(望城才子…",
+      "category": "湘菜",
+      "distanceM": 671,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-23"
+    },
+    {
+      "index": 24,
+      "rawName": "大碗先生(望城才子汇店)",
+      "category": "湘菜",
+      "distanceM": 571,
+      "distanceQualifier": null,
+      "restaurantId": "dawan"
+    },
+    {
+      "index": 25,
+      "rawName": "唐记同福·金汤酸菜鱼(…",
+      "category": "酸菜鱼",
+      "distanceM": 543,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-25"
+    },
+    {
+      "index": 26,
+      "rawName": "许府牛火锅(湖南长沙才子…",
+      "category": "牛肉火锅",
+      "distanceM": 607,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-26"
+    },
+    {
+      "index": 27,
+      "rawName": "沙县小吃",
+      "category": "沙县小吃",
+      "distanceM": 269,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-27"
+    },
+    {
+      "index": 28,
+      "rawName": "新疆味道羊肉烧烤店",
+      "category": "烧烤",
+      "distanceM": 758,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-28"
+    },
+    {
+      "index": 29,
+      "rawName": "张十三益阳麻辣烫(信息学…",
+      "category": "麻辣烫",
+      "distanceM": 444,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-29"
+    },
+    {
+      "index": 30,
+      "rawName": "刘文祥大碗麻辣烫",
+      "category": "麻辣烫",
+      "distanceM": 976,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-30"
+    },
+    {
+      "index": 31,
+      "rawName": "何记夜宵(总店)",
+      "category": "夜宵",
+      "distanceM": 911,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-31"
+    },
+    {
+      "index": 32,
+      "rawName": "鲜目录·中国寿司(望城区…",
+      "category": "寿司",
+      "distanceM": 569,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-32"
+    },
+    {
+      "index": 33,
+      "rawName": "嗨才夜生活市集",
+      "category": "美食市集",
+      "distanceM": 658,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-33"
+    },
+    {
+      "index": 34,
+      "rawName": "大米先生(才子汇店)",
+      "category": "快餐",
+      "distanceM": 617,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-34"
+    },
+    {
+      "index": 35,
+      "rawName": "兰州拉面",
+      "category": "拉面",
+      "distanceM": 456,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-35"
+    },
+    {
+      "index": 36,
+      "rawName": "北京烤鸭",
+      "category": "烤鸭",
+      "distanceM": 748,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-36"
+    },
+    {
+      "index": 37,
+      "rawName": "正新鸡排(才子汇店)",
+      "category": "炸鸡",
+      "distanceM": 587,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-37"
+    },
+    {
+      "index": 38,
+      "rawName": "沙县小吃(职忠路店)",
+      "category": "沙县小吃",
+      "distanceM": 970,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-38"
+    },
+    {
+      "index": 39,
+      "rawName": "水城羊肉粉才子城店",
+      "category": "羊肉粉",
+      "distanceM": 668,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-39"
+    },
+    {
+      "index": 40,
+      "rawName": "等笼灯·益阳麻辣烫(信息…",
+      "category": "麻辣烫",
+      "distanceM": 443,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-40"
+    },
+    {
+      "index": 41,
+      "rawName": "隆江猪脚饭郴州杀猪粉(信息职…",
+      "category": "猪脚饭",
+      "distanceM": 278,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-41"
+    },
+    {
+      "index": 42,
+      "rawName": "杭州小笼包(才子府店)",
+      "category": "小笼包",
+      "distanceM": 415,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-42"
+    },
+    {
+      "index": 43,
+      "rawName": "喜淘好饭",
+      "category": "快餐",
+      "distanceM": 450,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-43"
+    },
+    {
+      "index": 44,
+      "rawName": "林木木自助快餐",
+      "category": "快餐",
+      "distanceM": 397,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-44"
+    },
+    {
+      "index": 45,
+      "rawName": "鲜记开心湘乡银丝粉(望城…",
+      "category": "米粉",
+      "distanceM": 488,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-45"
+    },
+    {
+      "index": 46,
+      "rawName": "富得牛牛自助烤肉(才子汇…",
+      "category": "烤肉",
+      "distanceM": 575,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-46"
+    },
+    {
+      "index": 47,
+      "rawName": "懒人族猪脚烧腊饭(高塘览胜店)",
+      "category": "猪脚饭",
+      "distanceM": 245,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-47"
+    },
+    {
+      "index": 48,
+      "rawName": "衡湘君高压锅盖码饭(才子汇店)",
+      "category": "盖码饭",
+      "distanceM": 520,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-48"
+    },
+    {
+      "index": 49,
+      "rawName": "遵义·老牌牛羊肉粉馆(才子汇店)",
+      "category": "牛羊肉粉",
+      "distanceM": 422,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-49"
+    },
+    {
+      "index": 50,
+      "rawName": "黄蜀郎鸡公煲",
+      "category": "鸡公煲",
+      "distanceM": 307,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-50"
+    },
+    {
+      "index": 51,
+      "rawName": "焦本味·铁板焦饭·意面·咖…",
+      "category": "铁板饭",
+      "distanceM": 516,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-51"
+    },
+    {
+      "index": 52,
+      "rawName": "小串炭火烧烤",
+      "category": "烧烤",
+      "distanceM": 752,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-52"
+    },
+    {
+      "index": 53,
+      "rawName": "常来往(喻家坡小区店)",
+      "category": "快餐",
+      "distanceM": 173,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-53"
+    },
+    {
+      "index": 54,
+      "rawName": "煲味煲仔饭(望城店)",
+      "category": "煲仔饭",
+      "distanceM": 216,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-54"
+    },
+    {
+      "index": 55,
+      "rawName": "徐大川剁椒猪脚饭(信息…",
+      "category": "猪脚饭",
+      "distanceM": 903,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-55"
+    },
+    {
+      "index": 56,
+      "rawName": "罗记常德牛肉粉面(景城苑店)",
+      "category": "牛肉粉面",
+      "distanceM": 924,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-56"
+    },
+    {
+      "index": 57,
+      "rawName": "柯柯快餐",
+      "category": "快餐",
+      "distanceM": 953,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-57"
+    },
+    {
+      "index": 58,
+      "rawName": "摸鱼脆皮烤鱼",
+      "category": "烤鱼",
+      "distanceM": 517,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-58"
+    },
+    {
+      "index": 59,
+      "rawName": "新疆丝带路壹羊羊羊肉(高…",
+      "category": "羊肉烧烤",
+      "distanceM": 385,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-59"
+    },
+    {
+      "index": 60,
+      "rawName": "东北铁锅炖饺子馆(新塘…",
+      "category": "东北菜",
+      "distanceM": 884,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-60"
+    },
+    {
+      "index": 61,
+      "rawName": "田园特色粉面馆",
+      "category": "粉面",
+      "distanceM": 525,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-61"
+    },
+    {
+      "index": 62,
+      "rawName": "飞扬锅锅",
+      "category": "干锅",
+      "distanceM": 679,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-62"
+    },
+    {
+      "index": 63,
+      "rawName": "祥哥家厨土菜馆",
+      "category": "土菜",
+      "distanceM": 239,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-63"
+    },
+    {
+      "index": 64,
+      "rawName": "搭饭(长沙望城才子汇店)",
+      "category": "湘菜",
+      "distanceM": 529,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-64"
+    },
+    {
+      "index": 65,
+      "rawName": "我家味道",
+      "category": "中餐",
+      "distanceM": 110,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-65"
+    },
+    {
+      "index": 66,
+      "rawName": "东北饺子馆(信息店)",
+      "category": "饺子",
+      "distanceM": 529,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-66"
+    },
+    {
+      "index": 67,
+      "rawName": "隆江猪脚饭(高塘览胜店)",
+      "category": "猪脚饭",
+      "distanceM": 300,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-67"
+    },
+    {
+      "index": 68,
+      "rawName": "米汤饭",
+      "category": "快餐",
+      "distanceM": 349,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-68"
+    },
+    {
+      "index": 69,
+      "rawName": "膳当家黄焖鸡米饭(湖南信息职…",
+      "category": "黄焖鸡",
+      "distanceM": 255,
+      "distanceQualifier": null,
+      "restaurantId": "shandangjia"
+    },
+    {
+      "index": 70,
+      "rawName": "刘聋子粉店",
+      "category": "米粉",
+      "distanceM": 822,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-70"
+    },
+    {
+      "index": 71,
+      "rawName": "华莱士·全鸡汉堡(望城信息学…",
+      "category": "汉堡",
+      "distanceM": 755,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-71"
+    },
+    {
+      "index": 72,
+      "rawName": "好享吃餐厅",
+      "category": "中餐",
+      "distanceM": 248,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-72"
+    },
+    {
+      "index": 73,
+      "rawName": "火爆爆新疆炒米粉(望城店)",
+      "category": "炒米粉",
+      "distanceM": 243,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-73"
+    },
+    {
+      "index": 74,
+      "rawName": "三津汤包(才子城店)",
+      "category": "汤包",
+      "distanceM": null,
+      "distanceQualifier": null,
+      "restaurantId": "screenshot-20261004-74"
+    }
+  ]
+}
