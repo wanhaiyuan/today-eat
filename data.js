@@ -14,4 +14,24 @@ window.RESTAURANTS = [{
   address:'乌山街道聚缘路26号（近职业技术学校南院）', category:'黄焖鸡', distanceM:102,
   checkedAt:'2026-10-03', reviewDate:null, status:'用户指定加入',
   url:'https://j.map.baidu.com/t/M1Ffrv'
+}, {
+  id:'chenshi', name:'陈氏酱板鸭',
+  address:'长沙市望城区郭亮南路23号', category:'卤味', distanceM:205,
+  checkedAt:'2026-10-03', reviewDate:null, status:'用户指定加入',
+  url:'https://j.map.baidu.com/t/M1Ffrv'
+}, {
+  id:'yanyangxuan', name:'艳阳轩私房菜',
+  address:'湖南省长沙市望城区前进路21号', category:'私房菜', distanceM:268,
+  checkedAt:'2026-10-03', reviewDate:null, status:'用户指定加入',
+  url:'https://j.map.baidu.com/t/M1Ffrv'
+}, {
+  id:'dawan', name:'大碗先生(才子汇店)',
+  address:'乌山街道高塘岭大道才子府23栋3层3027号商铺', category:'湘菜', distanceM:538,
+  checkedAt:'2026-10-03', reviewDate:null, status:'用户指定加入',
+  url:'https://j.map.baidu.com/t/M1Ffrv'
+}, {
+  id:'jianggu', name:'江古六·老北京涮牛羊肉(才子汇店)',
+  address:'长沙市望城区才子汇3楼', category:'火锅', distanceM:561,
+  checkedAt:'2026-10-03', reviewDate:null, status:'用户指定加入',
+  url:'https://j.map.baidu.com/t/M1Ffrv'
 }];
