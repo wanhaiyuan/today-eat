@@ -5,28 +5,29 @@
 <meta name="theme-color" content="#ed4b28"><title>今天吃啥 · 湘信周边抽签器</title>
 <meta name="description" content="湖南信息职业技术学院望城校区周边一公里餐馆小吃清单，随机抽一家，打开地图就能找。">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23ed4b28'/%3E%3Crect x='9' y='5' width='14' height='22' rx='2' fill='white'/%3E%3Cpath d='M13 11h6M13 16h6M13 21h6' stroke='%23ed4b28' stroke-width='2'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="style.css"><script defer src="data.js"></script><script defer src="app.js"></script>
+<link rel="stylesheet" href="style.css?v=20261003-check"><script defer src="data.js?v=20261003-check"></script><script defer src="app.js?v=20261003-check"></script>
 </head>
 <body>
 <div class="shell">
-<header><a class="brand" href="#"><span class="brand-icon" aria-hidden="true">签</span>今天吃啥<span class="brand-sub">湘信饭点</span></a><span class="scope">望城校区 · 直线 1 km</span></header>
+<header><a class="brand" href="#"><span class="brand-icon" aria-hidden="true">签</span>今天吃啥<span class="brand-sub">湘信饭点</span></a><span class="scope">望城校区 · 地图周边 1 km</span></header>
 <main>
 <div class="intro"><div><p class="eyebrow">湖南信息职业技术学院 · 旺旺中路 8 号</p><h1>饭点到了，<br class="mobile-break">抽一家吧。</h1></div><a class="text-link" href="#places">看收录清单</a></div>
 <section class="draw-layout" aria-label="餐馆抽签">
 <div class="draw-panel">
 <div class="ticket" id="ticket"><div class="ticket-top"><span>你的今日饭签</span><span class="ticket-code" id="ticketCode">NO. 000</span></div>
-<div class="ticket-content" aria-live="polite" aria-atomic="true"><span class="ticket-category" id="category">学校周边 · 餐馆 / 小吃</span><h2 id="resultName">今天的好吃的，<br>交给这张签。</h2><p id="resultAddress" class="address">从核对到地图位置的周边店里随机抽一家</p><div id="resultDetails" class="result-details" hidden><span id="distance"></span><a id="sourceLink" href="#" target="_blank" rel="noopener noreferrer">查资料</a><a id="mapLink" href="#" target="_blank" rel="noopener noreferrer">打开地图</a></div></div>
+<div class="ticket-content" aria-live="polite" aria-atomic="true"><span class="ticket-category" id="category">2026 年名单 · 核对中</span><h2 id="resultName">今年的饭签，<br>重新核对中。</h2><p id="resultAddress" class="address">目前仅 1 家取得今年评价，尚不能提供完整的随机选择。</p><p id="resultEvidence" class="evidence-status"></p><div id="resultDetails" class="result-details" hidden><span id="distance"></span><a id="sourceLink" href="#" target="_blank" rel="noopener noreferrer">查资料</a><a id="mapLink" href="#" target="_blank" rel="noopener noreferrer">打开地图</a></div></div>
 <div class="ticket-bottom"><span id="poolCount">正在准备签池</span><span>愿这一顿，合你胃口</span></div></div>
 <button id="drawButton" class="draw-button" type="button"><span id="buttonText">抽一张，决定今天吃啥</span><span aria-hidden="true">✦</span></button>
 <p class="draw-note" id="drawNote">每轮不重复，抽完全部后开启新一轮。</p>
 </div>
 <aside class="food-card"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Braised_beef_noodles_20101019.jpg" alt="一碗红烧牛肉面，图片仅作食欲灵感展示" width="1000" height="1500"><div class="food-caption"><span>先好好吃一顿</span><p>一公里里的<br>日常小幸福。</p><small>氛围图片，非收录店铺实拍</small></div></aside>
 </section>
-<p class="data-notice">按公开地图位置筛选，营业状态未实时核实。资料可能较旧，出发前请打开地图确认。</p>
+<p class="data-notice">2026-10-03 核对：已撤下原来 18 条历史记录。现在仅 1 家有今年评价可抽，6 家当前地图收录的候选店暂不参与。评价不能保证今天营业，出发前请打开地图确认。</p>
 <section class="places" id="places" aria-labelledby="listTitle"><div class="section-heading"><div><p class="eyebrow">饭签从这里来</p><h2 id="listTitle">周边餐馆 &amp; 小吃 <span id="listCount">0</span></h2></div><span class="col-distance">按距离排列</span></div>
-<div class="table-wrap"><table><thead><tr><th scope="col">店名 / 地址</th><th scope="col">类型</th><th scope="col">直线距离</th><th scope="col">找店</th></tr></thead><tbody id="placeList"></tbody></table></div>
+<div class="table-wrap"><table><thead><tr><th scope="col">店名 / 地址</th><th scope="col">类型</th><th scope="col">地图距离</th><th scope="col">找店</th></tr></thead><tbody id="placeList"></tbody></table></div>
+<details class="candidates" open><summary>当前地图候选 <span id="candidateCount">0</span> 家 · 不参与抽签</summary><p class="candidate-note">这些店在本次百度周边查询中出现，尚未取得今年的营业证据。地图有记录不代表门店仍营业。</p><div class="table-wrap"><table><thead><tr><th scope="col">店名 / 地址</th><th scope="col">类型</th><th scope="col">地图距离</th><th scope="col">找店</th></tr></thead><tbody id="candidateList"></tbody></table></div></details>
 <noscript><p>请开启 JavaScript 使用抽签器。完整名单也保存在 restaurants.csv 中。</p></noscript>
-<details class="method"><summary>距离怎么计算？名单有多全？</summary><div><p>以<a href="https://changsha.city8.com/education/84hnoo767fxlba12ba" target="_blank" rel="noopener noreferrer">城市吧的学校地图位置</a>为中心，使用同一地图坐标系计算球面直线距离，收录不超过 1,000 米的餐馆和小吃店。直线距离不等于从宿舍或校门出发的步行距离。</p><p>这是公开资料中查到的名单，不代表全部商家；新店、流动摊位可能遗漏。纯饮品店、茶楼、小酒馆及校内食堂不进入餐馆抽签池。类型由名称和网页分类整理，菜单以门店为准。</p><p>整理日期：2026-10-03。店铺资料日期逐项显示在清单中；缺失时显示未标注。没有编造评分、价格、营业时间或招牌菜。</p><p class="photo-credit">图片：<a href="https://commons.wikimedia.org/wiki/File:Braised_beef_noodles_20101019.jpg" target="_blank" rel="noopener noreferrer">Archon6812 / Wikimedia Commons</a>，公有领域。</p></div></details>
+<details class="method"><summary>今年的名单怎么核对？</summary><div><p>查询日期：2026-10-03。在百度地图选择旺旺中路 8 号的湖南信息职业技术学院，点击“附近”搜索“美食”，按周边结果显示的距离筛选不超过 1,000 米的店。此次距离直接来自百度周边查询，与之前城市吧的学校定位及距离口径不同，不代表从宿舍出发的步行距离。<a href="https://j.map.baidu.com/t/M1Ffrv" target="_blank" rel="noopener noreferrer">查看周边查询来源</a>。</p><p>可抽名单须有 2026 年的评价或店铺营业证据。柳州老牌螺蛳粉（信息学院店）的详情页显示 2026-09-17 和 2026-08-18 的用餐评价；这里只标明评价日期，不把它当成今天营业的保证。其他 6 家仅核对到当前地图收录，单独列为候选。</p><p>原 18 条 2022–2023 年记录全部撤出抽签池。没有今年证据不等于已经关门，不能将它们统一标为停业。本次逐店查询持续超时，核对范围还不完整；未将查询日期写成店铺资料更新时间，也未编造评分、价格或营业时间。</p><p>新店、流动摊位可能遗漏；纯饮品店、茶楼、小酒馆、校内食堂及综合美食广场不进入餐馆抽签池。待核实候选名单可下载 <a href="candidates.csv">candidates.csv</a>。</p><p class="photo-credit">图片：<a href="https://commons.wikimedia.org/wiki/File:Braised_beef_noodles_20101019.jpg" target="_blank" rel="noopener noreferrer">Archon6812 / Wikimedia Commons</a>，公有领域。</p></div></details>
 </section>
 <footer><span>今天吃啥 · 湘信周边抽签器</span><span>好好吃饭，也是今天的一件正事。</span></footer>
 </main>
